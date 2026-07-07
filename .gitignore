@@ -141,3 +141,6 @@ Thumbs.db
 
 # Azure
 .azure/
+
+# Lab folder
+Lab/
