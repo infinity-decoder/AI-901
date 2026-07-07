@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 ### **Get Started Text Analysis Azure**
 
 #### **Core Concepts**

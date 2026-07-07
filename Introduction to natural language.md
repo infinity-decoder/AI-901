@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 ## Introduction to Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) enables machines to extract meaning, structure, and insights from unstructured text. Organizations use these techniques to transform customer feedback, support tickets, contracts, and social media posts into actionable intelligence.

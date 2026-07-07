@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 ### **Get Started With AI Information Extraction:-**
 
 Azure Content Understanding extracts structured data from unstructured content (documents, audio, video) so applications can search, analyze, and act on information automatically. 

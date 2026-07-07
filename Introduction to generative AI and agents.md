@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 # Introduction to Generative AI and Agents
 
 ## Generative AI Overview

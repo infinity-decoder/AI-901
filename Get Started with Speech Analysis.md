@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 ## **Get Started with Speech Analysis**
 
 AI speech capabilities enable us to manage systems with voice instructions, get answers from computers for spoken questions, generate captions from audio, and much more. Voice-based interfaces provide a more natural way to engage with AI software

@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 ## **Get Started With AI and Agents in Azure**
 
 ### **Generative AI models**

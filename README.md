@@ -1,4 +1,40 @@
-# Microsoft Azure AI Fundamentals (AI-901)
+<h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨‍💻Author: INFINITY DECODER</h1>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-red?style=for-the-badge&logo=github)](https://github.com/infinity-decoder) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/infinitydecoder) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-yellow?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/infinitydecoder)  
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/infinitydecoder.me) 
+[![Coursera](https://img.shields.io/badge/coursera-Profile-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/learner/infinitydecoder) 
+[![Website](https://img.shields.io/badge/website-visit-indigo?style=for-the-badge&logo=wordpress)](https://www.coursera.org/learner/infinitydecoder) 
+[![profile](https://img.shields.io/badge/portfolio-visit-violet?style=for-the-badge&logo=About.me)](https://profile.infinitydecoder.com/) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=email)](mailto:contact@infinitydecoder.com)
+
+---
+
+# 📚 Microsoft Azure AI Fundamentals (AI-901)
+
+[![GitHub release](https://img.shields.io/github/v/release/infinity-decoder/AI-901)](https://github.com/infinity-decoder/AI-901/releases)
+[![GitHub release date](https://img.shields.io/github/release-date/infinity-decoder/AI-901)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/infinity-decoder/AI-901)](#)
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![License][license-shield]][license-url]
+
+[contributors-shield]: https://img.shields.io/github/contributors/infinity-decoder/AI-901.svg?style=for-the-badge
+[contributors-url]: https://github.com/infinity-decoder/AI-901/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/infinity-decoder/AI-901.svg?style=for-the-badge
+[forks-url]: https://github.com/infinity-decoder/AI-901/network/members
+[stars-shield]: https://img.shields.io/github/stars/infinity-decoder/AI-901.svg?style=for-the-badge
+[stars-url]: https://github.com/infinity-decoder/AI-901/stargazers
+[issues-shield]: https://img.shields.io/github/issues/infinity-decoder/AI-901.svg?style=for-the-badge
+[issues-url]: https://github.com/infinity-decoder/AI-901/issues
+[license-shield]: https://img.shields.io/badge/license-MIT-orange.svg?style=for-the-badge
+[license-url]: https://github.com/infinity-decoder/AI-901/blob/main/LICENSE.txt
+
+> **Note:** This repository is a compilation of open-source available content and study materials for the Microsoft Azure AI Fundamentals (AI-901) certification exam.
 
 ## Overview
 

@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 ### **Get Started with Vision Azure**
 
 Computer vision: AI capability that enables machines to interpret and analyze visual input (images, video).

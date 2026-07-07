@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 # **Get started with AI in Azure:-**
 
 ### **Core Azure services:-**

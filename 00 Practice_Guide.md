@@ -1,3 +1,7 @@
+[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+
+---
+
 # Skills at a glance
 
 - **Identify AI concepts and capabilities (40–45%)**
