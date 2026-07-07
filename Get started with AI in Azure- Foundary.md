@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# **Get started with AI in Azure:-**
+
+[🏠 Back to Home](README.md)
 
 ---
-
-# **Get started with AI in Azure:-**
 
 ### **Core Azure services:-**
 
@@ -240,3 +240,10 @@ example prompt:-
     f. Search for classic Microsoft logos.
 
 23. you try speech recognition by using audio input button and asking the question via speech. Upload or attach images via attachment icon and ask questions around or gather info from the image like "Extract the text from this printed circuit board, and search for information that might help identify the computer it came from."
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

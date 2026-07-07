@@ -136,3 +136,11 @@ For updates or corrections, please submit a pull request or open an issue.
 
 **Last Updated:** July 2026  
 **Target Certification:** Microsoft Azure AI Fundamentals (AI-901)
+
+---
+
+<div align="right">
+
+[⬆️ Back to Top](#top)
+
+</div>

@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+### **Get Started With AI Information Extraction:-**
+
+[🏠 Back to Home](README.md)
 
 ---
-
-### **Get Started With AI Information Extraction:-**
 
 Azure Content Understanding extracts structured data from unstructured content (documents, audio, video) so applications can search, analyze, and act on information automatically. 
 
@@ -344,3 +344,10 @@ example code:-
         if __name__ == "__main__":
             main()
     </code>
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

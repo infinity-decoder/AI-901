@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+## **Get Started With AI and Agents in Azure**
+
+[🏠 Back to Home](README.md)
 
 ---
-
-## **Get Started With AI and Agents in Azure**
 
 ### **Generative AI models**
 
@@ -342,3 +342,11 @@ example code :-
 </code>
 
 17. In the Code tab, use the Open in VS Code for the web button to open Visual Studio Code for the Web in a new browser tab. In Instructions.md file contains the instructions you need to run the sample code (which is in the run_agent.py file in the VS Code Explorer pane on the left.). run the command and see the output
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

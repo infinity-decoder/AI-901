@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# Skills at a glance
+
+[🏠 Back to Home](README.md)
 
 ---
-
-# Skills at a glance
 
 - **Identify AI concepts and capabilities (40–45%)**
 - **Implement AI solutions by using Microsoft Foundry (55–60%)**
@@ -185,3 +185,11 @@ Multimodal extraction from documents, images, audio, and video.
 ---
 
 *Last updated: April 2026 | Based on official Microsoft exam objectives dated April 15, 2026*
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

@@ -1,8 +1,9 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# AZ901 Quiz sample
+
+[🏠 Back to Home](README.md)
 
 ---
 
-# AZ901 Quiz sample
 ## Table of Contents
 - [Module 01](#module-01)
 - [Module 02](#module-02)
@@ -656,3 +657,11 @@ Part 2: Vector Databases & Orchestration
     • D) Writing the first prompt.
 **Correct Answer:** B
 **Rationale:** Moving to production and establishing monitoring ensures the system is available to users and performing as expected over time.
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

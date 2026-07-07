@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# Introduction to AI
+
+[🏠 Back to Home](README.md)
 
 ---
-
-# Introduction to AI
 
 ## Generative AI
 
@@ -94,3 +94,11 @@ Azure AI Language provides services for:
    - Facial recognition in airports → delete temporary images promptly.
    - Speech‑based agents → provide captions for hearing‑impaired users.
    - Loan approval AI → disclose AI usage and training data features.
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

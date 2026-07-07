@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+### **Get Started with Vision Azure**
+
+[🏠 Back to Home](README.md)
 
 ---
-
-### **Get Started with Vision Azure**
 
 Computer vision: AI capability that enables machines to interpret and analyze visual input (images, video).
 
@@ -344,3 +344,11 @@ example of using the Azure OpenAI v1 API with the Sora 2 model:-
             "model": "sora"
             }'
     </code>
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+##### **Introduction to AI-powered information:-**
+
+[🏠 Back to Home](README.md)
 
 ---
-
-##### **Introduction to AI-powered information:-**
 
 
 
@@ -372,3 +372,11 @@ Field extraction is the process of taking text output from OCR and mapping indiv
 
 5\. Integration with business systems — map fields to database schemas, API payloads, or message queues and apply business rules before ingestion.
 
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

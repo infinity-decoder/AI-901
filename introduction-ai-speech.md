@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# 📘 Introduction — AI Speech
+
+[🏠 Back to Home](README.md)
 
 ---
-
-# 📘 Introduction — AI Speech
 
 ## 1. Speech Recognition (Speech‑to‑Text)
 
@@ -109,3 +109,11 @@ Request: `"Dr. Chen's appointment is at 3:00 PM"`
 2. **Linguistic analysis** → `/ˈdɑktər ˈtʃɛnz əˈpɔɪntmənt ɪz æt θri əˈklɑk pi ɛm/`
 3. **Prosody generation** → Pitch rises on _appointment_, pause after _is_, emphasis on _three_.
 4. **Speech synthesis** → Audio waveform generated with natural rhythm and stress.
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

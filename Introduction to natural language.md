@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+## Introduction to Natural Language Processing (NLP)
+
+[🏠 Back to Home](README.md)
 
 ---
-
-## Introduction to Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) enables machines to extract meaning, structure, and insights from unstructured text. Organizations use these techniques to transform customer feedback, support tickets, contracts, and social media posts into actionable intelligence.
 
@@ -155,3 +155,11 @@ Embeddings enable intuitive algebraic operations:
 * **Keyword Extraction:** Comparing word embeddings to the document’s aggregate vector.
 * **Named Entity Recognition:** Clustering similar entity types together in vector space.
 * **Text Classification:** Using document vectors (the mean of word embeddings) as features for machine learning classifiers.
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

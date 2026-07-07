@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# Introduction to Generative AI and Agents
+
+[🏠 Back to Home](README.md)
 
 ---
-
-# Introduction to Generative AI and Agents
 
 ## Generative AI Overview
 * **Definition:** Artificial Intelligence designed to create *new* content (text, images, audio, video, code), as opposed to traditional AI which focuses on classification or prediction.
@@ -65,3 +65,11 @@ AI Agents are applications built on Generative AI that can reason, act, and inte
 * **Tools (Extensions):**
     * **Knowledge Tools:** Search engines, vector databases, or internal documentation.
     * **Action Tools:** APIs to send emails, update calendars, or control external software/hardware.
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

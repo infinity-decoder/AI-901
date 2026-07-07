@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+### **Get Started Text Analysis Azure**
+
+[🏠 Back to Home](README.md)
 
 ---
-
-### **Get Started Text Analysis Azure**
 
 #### **Core Concepts**
 
@@ -333,3 +333,10 @@ The Azure Language MCP server is a managed service that exposes Azure Language i
                     print(" Length: {}".format(entity.length))
         pii_recognition_example(client)
     </code>
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>

@@ -1,8 +1,8 @@
-[⬆️ Back to Top](#) | [🏠 Back to Home](README.md)
+# 📘 Introduction to Computer Vision Concepts
+
+[🏠 Back to Home](README.md)
 
 ---
-
-# 📘 Introduction to Computer Vision Concepts
 
 Computer vision is the set of AI tasks and techniques that let software process visual input from images, video, or live camera streams to extract meaningful information.
 
@@ -124,3 +124,11 @@ Modern image generation uses multimodal models to map text prompts → visual fe
 ### Video Generation Differences
 
 - **Temporal and physical consistency** — Enforce coherence across frames and realistic motion (e.g., object contact with ground).
+
+---
+
+<div align='right'>
+
+[🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
+
+</div>
