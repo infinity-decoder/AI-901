@@ -1,3 +1,7 @@
+# ──────────────────────────────────────────────
+# Python
+# ──────────────────────────────────────────────
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -53,34 +57,39 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
+# ──────────────────────────────────────────────
+# Web Frameworks
+# ──────────────────────────────────────────────
+
+# Django
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
-# Flask stuff:
+# Flask
 instance/
 .webassets-cache
 
-# Scrapy stuff:
+# Scrapy
 .scrapy
 
-# Sphinx documentation
+# ──────────────────────────────────────────────
+# Documentation
+# ──────────────────────────────────────────────
+
+# Sphinx
 docs/_build/
+
+# mkdocs
+/site
+
+# ──────────────────────────────────────────────
+# Build Tools & Package Managers
+# ──────────────────────────────────────────────
 
 # PyBuilder
 target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
 
 # pipenv
 Pipfile.lock
@@ -88,14 +97,21 @@ Pipfile.lock
 # PEP 582
 __pypackages__/
 
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
+# ──────────────────────────────────────────────
+# Notebooks & Interactive
+# ──────────────────────────────────────────────
 
-# SageMath parsed files
-*.sage.py
+# Jupyter Notebook
+.ipynb_checkpoints/
 
-# Environments
+# IPython
+profile_default/
+ipython_config.py
+
+# ──────────────────────────────────────────────
+# Virtual Environments
+# ──────────────────────────────────────────────
+
 .env
 .venv
 env/
@@ -104,43 +120,78 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# ──────────────────────────────────────────────
+# Type Checkers & Linters
+# ──────────────────────────────────────────────
 
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
+# pyenv
+.python-version
 
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
+# Pyre
 .pyre/
 
-# IDE
+# ──────────────────────────────────────────────
+# Task Queues
+# ──────────────────────────────────────────────
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# ──────────────────────────────────────────────
+# IDE & Editor Settings
+# ──────────────────────────────────────────────
+
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# ──────────────────────────────────────────────
+# OS Generated Files
+# ──────────────────────────────────────────────
+
 .DS_Store
-
-# Node
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# OS
 Thumbs.db
-.DS_Store
+
+# ──────────────────────────────────────────────
+# Node / Frontend
+# ──────────────────────────────────────────────
+
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ──────────────────────────────────────────────
+# Cloud & Services
+# ──────────────────────────────────────────────
 
 # Azure
 .azure/
 
-# Lab folder
+# ──────────────────────────────────────────────
+# Project-Specific
+# ──────────────────────────────────────────────
+
+.Lab/
 Lab/
+templates/
+notebooks/
+/Lesson-Plan-Ai.docx
+.posit/
