@@ -1,38 +1,15 @@
-<h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨‍💻Author: INFINITY DECODER</h1>
+👨‍💻Author: INFINITY DECODER
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-red?style=for-the-badge&logo=github)](https://github.com/infinity-decoder) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/infinitydecoder) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-yellow?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/infinitydecoder)  
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/infinitydecoder.me) 
-[![Coursera](https://img.shields.io/badge/coursera-Profile-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/learner/infinitydecoder) 
-[![Website](https://img.shields.io/badge/website-visit-indigo?style=for-the-badge&logo=wordpress)](https://www.coursera.org/learner/infinitydecoder) 
-[![profile](https://img.shields.io/badge/portfolio-visit-violet?style=for-the-badge&logo=About.me)](https://profile.infinitydecoder.com/) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=email)](mailto:contact@infinitydecoder.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-red?style=for-the-badge&logo=github)](https://github.com/infinity-decoder) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/infinitydecoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-yellow?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/infinitydecoder)\
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/infinitydecoder.me) [![Coursera](https://img.shields.io/badge/coursera-Profile-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/learner/infinitydecoder) [![Website](https://img.shields.io/badge/website-visit-indigo?style=for-the-badge&logo=wordpress)](https://www.coursera.org/learner/infinitydecoder) [![profile](https://img.shields.io/badge/portfolio-visit-violet?style=for-the-badge&logo=About.me)](https://profile.infinitydecoder.com/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=email)](mailto:contact@infinitydecoder.com)
 
----
+------------------------------------------------------------------------
 
 # 📚 Microsoft Azure AI Fundamentals (AI-901)
 
-[![GitHub release](https://img.shields.io/github/v/release/infinity-decoder/AI-901)](https://github.com/infinity-decoder/AI-901/releases)
-[![GitHub release date](https://img.shields.io/github/release-date/infinity-decoder/AI-901)](#)
-[![GitHub last commit](https://img.shields.io/github/last-commit/infinity-decoder/AI-901)](#)
+[![GitHub release](https://img.shields.io/github/v/release/infinity-decoder/AI-901)](https://github.com/infinity-decoder/AI-901/releases) [![GitHub release date](https://img.shields.io/github/release-date/infinity-decoder/AI-901)](#) [![GitHub last commit](https://img.shields.io/github/last-commit/infinity-decoder/AI-901)](#)
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-
-[contributors-shield]: https://img.shields.io/github/contributors/infinity-decoder/AI-901.svg?style=for-the-badge
-[contributors-url]: https://github.com/infinity-decoder/AI-901/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/infinity-decoder/AI-901.svg?style=for-the-badge
-[forks-url]: https://github.com/infinity-decoder/AI-901/network/members
-[stars-shield]: https://img.shields.io/github/stars/infinity-decoder/AI-901.svg?style=for-the-badge
-[stars-url]: https://github.com/infinity-decoder/AI-901/stargazers
-[issues-shield]: https://img.shields.io/github/issues/infinity-decoder/AI-901.svg?style=for-the-badge
-[issues-url]: https://github.com/infinity-decoder/AI-901/issues
-[license-shield]: https://img.shields.io/badge/license-MIT-orange.svg?style=for-the-badge
-[license-url]: https://github.com/infinity-decoder/AI-901/blob/main/LICENSE.txt
+[![Contributors](https://img.shields.io/github/contributors/infinity-decoder/AI-901.svg?style=for-the-badge)](https://github.com/infinity-decoder/AI-901/graphs/contributors) [![Forks](https://img.shields.io/github/forks/infinity-decoder/AI-901.svg?style=for-the-badge)](https://github.com/infinity-decoder/AI-901/network/members) [![Stargazers](https://img.shields.io/github/stars/infinity-decoder/AI-901.svg?style=for-the-badge)](https://github.com/infinity-decoder/AI-901/stargazers) [![Issues](https://img.shields.io/github/issues/infinity-decoder/AI-901.svg?style=for-the-badge)](https://github.com/infinity-decoder/AI-901/issues) [![License](https://img.shields.io/badge/license-MIT-orange.svg?style=for-the-badge)](https://github.com/infinity-decoder/AI-901/blob/main/LICENSE.txt)
 
 > **Note:** This repository is a compilation of open-source available content and study materials for the Microsoft Azure AI Fundamentals (AI-901) certification exam.
 
@@ -43,7 +20,7 @@ This repository contains comprehensive study materials and resources for the Mic
 ## Study Materials
 
 | Document | Description |
-|----------|-------------|
+|-------------------------------|----------------------------------------|
 | [00 Practice Guide](00%20Practice_Guide.md) | Comprehensive practice guide with exam preparation tips and strategy |
 | [Introduction to AI](Introduction%20to%20AI.md) | Foundational concepts and principles of Artificial Intelligence |
 | [Introduction to Generative AI and Agents](Introduction%20to%20generative%20AI%20and%20agents.md) | Understanding generative AI models and intelligent agents |
@@ -71,11 +48,11 @@ This repository contains comprehensive study materials and resources for the Mic
 
 ## Getting Started
 
-1. **Clone the repository** to your local machine
-2. **Start with foundational concepts** - Begin with the Introduction materials
-3. **Progress systematically** - Follow the logical flow from basics to advanced topics
-4. **Practice regularly** - Use the sample quizzes and practice guides
-5. **Reference Azure documentation** - Links to official Microsoft resources are included throughout
+1.  **Clone the repository** to your local machine
+2.  **Start with foundational concepts** - Begin with the Introduction materials
+3.  **Progress systematically** - Follow the logical flow from basics to advanced topics
+4.  **Practice regularly** - Use the sample quizzes and practice guides
+5.  **Reference Azure documentation** - Links to official Microsoft resources are included throughout
 
 ## Prerequisites
 
@@ -92,7 +69,7 @@ This repository contains comprehensive study materials and resources for the Mic
 
 ## Repository Structure
 
-```
+```         
 AI-901/
 ├── README.md                          # This file
 ├── .gitignore                         # Git ignore rules
@@ -105,10 +82,10 @@ AI-901/
 
 ## How to Use This Repository
 
-1. **For Self-Study** - Follow the materials in sequence, taking notes on key concepts
-2. **For Exam Prep** - Focus on the Practice Guide and Quiz Sample documents
-3. **For Reference** - Use individual guides when studying specific topics
-4. **For Implementation** - Follow the "Get Started" guides to practice with Azure services
+1.  **For Self-Study** - Follow the materials in sequence, taking notes on key concepts
+2.  **For Exam Prep** - Focus on the Practice Guide and Quiz Sample documents
+3.  **For Reference** - Use individual guides when studying specific topics
+4.  **For Implementation** - Follow the "Get Started" guides to practice with Azure services
 
 ## Study Tips
 
@@ -132,15 +109,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For updates or corrections, please submit a pull request or open an issue.
 
----
+------------------------------------------------------------------------
 
-**Last Updated:** July 2026  
+**Last Updated:** July 2026\
 **Target Certification:** Microsoft Azure AI Fundamentals (AI-901)
 
----
+------------------------------------------------------------------------
 
-<div align="right">
-
+::: {align="right"}
 [⬆️ Back to Top](#top)
-
-</div>
+:::
