@@ -660,6 +660,95 @@ Part 2: Vector Databases & Orchestration
 
 ---
 
+
+# Artificial Intelligence & Machine Learning Quiz
+
+## Section 1: Natural Language Processing (NLP)
+
+### Question 1
+What is the purpose of tokenization?
+- [ ] To translate text into another language.
+- [ ] To summarize large documents.
+- [x] **To break down text into smaller units for analysis.**
+
+### Question 2
+Which of the following techniques is used to determine the importance of words in a specific document within the context of a larger collection of documents?
+- [ ] Naïve Bayes
+- [x] **TF-IDF (Term Frequency-Inverse Document Frequency)**
+- [ ] Word2Vec
+
+### Question 3
+Which of the following best describes the role of embedding vectors in natural language processing (NLP)?
+- [ ] They duplicate tokens in multiple languages.
+- - [ ] They define stopwords that should be ignored.
+- [x] **They capture semantic token relationships in multiple dimensions.**
+
+---
+
+## Section 2: Speech Recognition & Synthesis
+
+### Question 1
+What activity happens during the pre-processing stage of speech recognition?
+- [ ] The audio is converted to .wmv format.
+- [ ] Background noise is added to the audio signal.
+- [x] **Feature vectors are extracted from the audio waveform for modeling.**
+
+### Question 2
+What are phonemes?
+- [ ] Artifacts that are removed from the signal as part of the clean-up process.
+- [x] **The smallest unit of sound in speech.**
+- [ ] AI models that generate audio.
+
+### Question 3
+Why is it important to generate prosody in speech synthesis?
+- [ ] Prosody maximizes the volume of the audio output.
+- [ ] Prosody translates the speech to the language of the listener.
+- [x] **Prosody ensures natural pronunciation and speech cadence.**
+
+---
+
+## Section 3: Computer Vision
+
+### Question 1
+Computer vision is based on the manipulation and analysis of what kinds of values in an image?
+- [ ] Timestamps in photograph metadata
+- [x] **Pixels**
+- [ ] Image file names
+
+### Question 2
+What is the primary role of filters in a convolutional neural network (CNN) used for image classification?
+- [ ] To apply visual effects to enhance image appearance.
+- [x] **To extract numeric features from images for use in a neural network.**
+- [ ] To compress image size for faster processing.
+
+### Question 3
+Which description best matches a Vision Transformer (ViT)?
+- [ ] A tool that applies filters to images, changing their visual appearance.
+- [ ] An AI agent that converts a large language model to a vision model.
+- [x] **A model that uses attention to process image patches and create contextual embeddings.**
+
+---
+
+## Section 4: AI Information Extraction & OCR
+
+### Question 1
+Which of these statements accurately defines AI information extraction?
+- [ ] Using SQL code to query a database.
+- [ ] Copying files from cloud storage to local disks.
+- [x] **Analyzing unstructured content to identify and extract relevant fields and values.**
+
+### Question 2
+How is OCR used in the information extraction process?
+- [ ] Online Content Retrieval (OCR) is used to copy cloud data to a local device for processing.
+- [x] **Optical character recognition (OCR) is used to convert images of text into machine-readable text data.**
+- [ ] Open Conversion Routine (OCR) is a method for converting JSON data into images.
+
+### Question 3
+How does generative AI enhance the data extraction process?
+- [x] **By using semantic language models to accurately match extracted values to data fields.**
+- [ ] By manually coding extraction rules for each document type.
+- [ ] By generating new documents from scratch.
+
 <div align='right'>
 
 [🏠 Back to Home](README.md) | [⬆️ Back to Top](#top)
