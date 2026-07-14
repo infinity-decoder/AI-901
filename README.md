@@ -13,9 +13,25 @@
 
 > **Note:** This repository is a compilation of open-source available content and study materials for the Microsoft Azure AI Fundamentals (AI-901) certification exam.
 
+---
+
+## ⭐ Star this repository so that others can also find it!
+
+If you find these study materials helpful, please give this repository a star ⭐ — it helps other certification candidates discover it!
+
+---
+
 ## Overview
 
 This repository contains comprehensive study materials and resources for the Microsoft Azure AI Fundamentals (AI-901) certification exam. It includes detailed guides, practice materials, and practical exercises covering all major topics related to Azure AI services.
+
+## 🚀 Interactive Practice Portal
+
+This project includes a fully offline, interactive practice portal — simply double-click **[index.html](index.html)** in your browser (no server or installation needed) to:
+
+- Take **12 section quizzes** and **2 full-length mock exams** with timed sessions, detailed answer explanations, and score tracking.
+- Read **structured study notes** in a beautifully rendered markdown reader, complete with original diagrams.
+- **Dynamically load new notes:** Drop any `.md` file into the `modules/` folder, click **Sync Folder** inside the portal, and it instantly appears in your study list.
 
 ## Study Materials
 
@@ -116,6 +132,6 @@ For updates or corrections, please submit a pull request or open an issue.
 
 ------------------------------------------------------------------------
 
-::: {align="right"}
+
 [⬆️ Back to Top](#top)
 :::

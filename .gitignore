@@ -195,3 +195,7 @@ templates/
 notebooks/
 /Lesson-Plan-Ai.docx
 .posit/
+
+# Antigravity agent configuration and workspace caches
+.gemini/
+.agents/
